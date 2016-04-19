@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
 
     GameField *field=new GameField;
     field->create();
+    
 
     return 0;
 }
